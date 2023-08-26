@@ -93,8 +93,7 @@ In this project, I've only included 1000 sentences in each of the 22 most widely
 
 ## 🖋️ Welcome your feedback for any project
 
-If you have any feedback, please reach out to us at hire.brijesh@gmail.com
-
+If you have any feedback on my project, please contact us at hire.brijesh@gmail.com as your feedback is valuable to me.
 
 
 
