@@ -21,7 +21,7 @@ All of my machine learning, deep learning, and NLP projects are in this reposito
 I am passionate about machine learning and data science. I am particularly interested in novel techniques for using machine learning, big data, and natural language processing (NLP) to solve real-world problems.
 
 
-## 🛠 Top-6 Required Skills for this type of Projects
+# 🛠 Top-6 Required Skills for this type of Projects
 1. Machine Learning
 2. Deep Learning
 3. Feature Engineering
@@ -31,42 +31,42 @@ I am passionate about machine learning and data science. I am particularly inter
 7. Python
 
 
-## 🛣️ Roadmap for accessing all the projects in one click
+# 🛣️ Roadmap for accessing all the projects in one click
 
-### 🤖 Project 1: Algorithmic Trading with Top Stocks 
+## 🤖 Project 1: Algorithmic Trading with Top Stocks 
 
 [Project Link](https://github.com/Birjesh786/All-Ml-DL-Projects/blob/main/Algorithmic_Trading_with_Top_Stocks.ipynb) 
 
-#### 👉 Category: Deep Learning
+👉 Category: **Deep Learning**
 
-#### 🖋️ Description:
+🖋️ Description:
 
-#### Project Overview: Momentum-Based Stock Price Prediction
+**Project Overview**: Momentum-Based Stock Price Prediction
 
 The project aims to create a comprehensive stock price prediction model based on the ground-breaking **Momentum Strategy idea**.
 
 The model includes a wide range of analytical methods, such as volume analysis and in-depth investigation of open and close rates.
 
-#### Comprehensive Analysis Coverage
+**Comprehensive Analysis Coverage:**
 
 1. Volume analysis is a thorough investigation of trade volume trends that provides a deeper understanding of market dynamics and investor sentiment.
 
 2. An in-depth analysis of opening and closing price movements that reveals intraday volatility and prospective trading opportunities is known as a "**open-and-close rate analysis.**"
 
-### Special Mention: Momentum Strategy
+**Special Mention**: Momentum Strategy
 
-Overview of Momentum Strategy The Momentum Strategy, a renowned trading strategy based on profiting on asset prices' propensity to maintain their current directional momentum, is at the center of the initiative.
+Overview of Momentum Strategy The Momentum Strategy, a renowned trading strategy based on profiting on asset prices' propensity to maintain their current directional momentum, is at the centre of the initiative.
 
 The fundamental tenet of momentum trading is that it involves carefully purchasing assets that have shown a decrease in value while simultaneously disposing of assets that have shown an increase in value.
 
 
-### 🤖 Project 2: Language Detection
+## 🤖 Project 2: Language Detection
 
 [Project Link](https://github.com/Birjesh786/All-Ml-DL-Projects/blob/main/Language_Detection.ipynb) 
 
-#### 👉 Category: NLP
+👉 Category: **NLP**
 
-#### 🖋️ Description:
+🖋️ Description:
 
 With the aid of NLP, I developed a Language Detection model for this project.
 
@@ -74,8 +74,19 @@ I used the multinomial MB algorithm in my project. Since this technique consiste
 
 In this project, I've only included 1000 sentences in each of the 22 most widely spoken languages. I obtained this data from Kaggle, too.
 
-### 🤖 Project 3: Coming soon.
+### 🤖 Project 3: Spam Comment Detection
 
+[Project Link](https://github.com/Birjesh786/Spam_Comment_Classifier)
+
+👉 Category: **ML + NLP**
+
+🖋️ Description:
+
+In this project, I'm creating a spam classifier model based on two approaches:
+
+1. With a labelled dataset
+
+2. Without a labelled dataset
 
 
 
