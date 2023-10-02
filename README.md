@@ -74,7 +74,7 @@ I used the multinomial MB algorithm in my project. Since this technique consiste
 
 In this project, I've only included 1000 sentences in each of the 22 most widely spoken languages. I obtained this data from Kaggle, too.
 
-### 🤖 Project 3: Spam Comment Detection
+## 🤖 Project 3: Spam Comment Detection
 
 [Project Link](https://github.com/Birjesh786/Spam_Comment_Classifier)
 
